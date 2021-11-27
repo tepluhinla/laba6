@@ -12,3 +12,4 @@ Laba Mobilki (TepluhinLev 803a2)
 
 4.	Все работает! 
 <img style="float: right;" src="4.jpg">
+![image](https://user-images.githubusercontent.com/73265867/143669026-82d4d877-7d97-4601-a042-829123d451e0.png)
